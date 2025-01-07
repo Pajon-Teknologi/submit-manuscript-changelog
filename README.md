@@ -32,7 +32,7 @@
 ---
 
 ### Issue Tracker
-If you encounter any issues with this version, please report them via our [issue tracker](https://github.com/rizkyadiryanto14/submit-manuscript-changelog/issues).
+If you encounter any issues with this version, please report them via our [issue tracker](https://github.com/Pajon-Teknologi/submit-manuscript-changelog/issues).
 
 ---
 
